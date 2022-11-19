@@ -1,4 +1,4 @@
-# odin_recipies
+# odin_recipes
 
 This project is a website of recipes.
 
